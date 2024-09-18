@@ -1,0 +1,7 @@
+{
+  "name": "edublooms",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
